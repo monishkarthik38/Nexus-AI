@@ -1,0 +1,36 @@
+{"id":"seed-s-01","passage":"The Northstar team moved its weekly planning meeting from Tuesday to Thursday.","claim":"Northstar's weekly planning meeting is now held on Thursday.","label":"supports"}
+{"id":"seed-s-02","passage":"The pilot enrolled 48 volunteers across three clinics.","claim":"Forty-eight volunteers participated in the pilot.","label":"supports"}
+{"id":"seed-s-03","passage":"Each archive is encrypted before it is transferred to cold storage.","claim":"Archives are encrypted before transfer to cold storage.","label":"supports"}
+{"id":"seed-s-04","passage":"Mira Chen led the second phase of the coastal survey.","claim":"The second phase of the coastal survey was led by Mira Chen.","label":"supports"}
+{"id":"seed-s-05","passage":"The device operated for nine hours on a single battery charge.","claim":"A single charge powered the device for nine hours.","label":"supports"}
+{"id":"seed-s-06","passage":"The draft protocol requires two reviewers to approve a release.","claim":"A release requires approval from two reviewers under the draft protocol.","label":"supports"}
+{"id":"seed-s-07","passage":"The greenhouse recorded its highest temperature, 31 degrees Celsius, in July.","claim":"The greenhouse reached 31 degrees Celsius in July.","label":"supports"}
+{"id":"seed-s-08","passage":"Applicants may submit the form online or by post; email submissions are not accepted.","claim":"The form can be submitted online.","label":"supports"}
+{"id":"seed-s-09","passage":"The library added 120 new titles during the spring quarter.","claim":"One hundred and twenty titles were added in spring.","label":"supports"}
+{"id":"seed-s-10","passage":"The sensor sends a status packet every thirty seconds.","claim":"Status packets are sent by the sensor at half-minute intervals.","label":"supports"}
+{"id":"seed-s-11","passage":"The final report will be published after the advisory board meeting.","claim":"Publication of the final report is scheduled for after the advisory board meets.","label":"supports"}
+{"id":"seed-s-12","passage":"For the trial, all samples were stored below minus ten degrees Celsius.","claim":"During the trial, samples were kept colder than -10°C.","label":"supports"}
+{"id":"seed-c-01","passage":"The Northstar team moved its weekly planning meeting from Tuesday to Thursday.","claim":"Northstar's weekly planning meeting is now held on Tuesday.","label":"contradicts"}
+{"id":"seed-c-02","passage":"The pilot enrolled 48 volunteers across three clinics.","claim":"The pilot enrolled 84 volunteers.","label":"contradicts"}
+{"id":"seed-c-03","passage":"Each archive is encrypted before it is transferred to cold storage.","claim":"Archives are transferred to cold storage without encryption.","label":"contradicts"}
+{"id":"seed-c-04","passage":"Mira Chen led the second phase of the coastal survey.","claim":"Mira Chen did not lead the second phase of the survey.","label":"contradicts"}
+{"id":"seed-c-05","passage":"The device operated for nine hours on a single battery charge.","claim":"The device ran for only four hours per charge.","label":"contradicts"}
+{"id":"seed-c-06","passage":"The draft protocol requires two reviewers to approve a release.","claim":"The draft protocol says one reviewer is enough to approve a release.","label":"contradicts"}
+{"id":"seed-c-07","passage":"The greenhouse recorded its highest temperature, 31 degrees Celsius, in July.","claim":"The greenhouse's recorded high was 31 degrees Celsius in January.","label":"contradicts"}
+{"id":"seed-c-08","passage":"Applicants may submit the form online or by post; email submissions are not accepted.","claim":"Applicants must submit the form by email.","label":"contradicts"}
+{"id":"seed-c-09","passage":"The library added 120 new titles during the spring quarter.","claim":"The library added 210 titles in spring.","label":"contradicts"}
+{"id":"seed-c-10","passage":"The sensor sends a status packet every thirty seconds.","claim":"The sensor sends a status packet once every thirty minutes.","label":"contradicts"}
+{"id":"seed-c-11","passage":"The final report will be published after the advisory board meeting.","claim":"The final report will be published before the advisory board meeting.","label":"contradicts"}
+{"id":"seed-c-12","passage":"For the trial, all samples were stored below minus ten degrees Celsius.","claim":"The trial samples were stored above 10°C.","label":"contradicts"}
+{"id":"seed-i-01","passage":"The Northstar team moved its weekly planning meeting from Tuesday to Thursday.","claim":"The Northstar team has offices in three countries.","label":"insufficient"}
+{"id":"seed-i-02","passage":"The pilot enrolled 48 volunteers across three clinics.","claim":"The pilot received ethics approval in March.","label":"insufficient"}
+{"id":"seed-i-03","passage":"Each archive is encrypted before it is transferred to cold storage.","claim":"The archives are retained for at least seven years.","label":"insufficient"}
+{"id":"seed-i-04","passage":"Mira Chen led the second phase of the coastal survey.","claim":"The coastal survey used satellite imagery.","label":"insufficient"}
+{"id":"seed-i-05","passage":"The device operated for nine hours on a single battery charge.","claim":"The device is manufactured in Finland.","label":"insufficient"}
+{"id":"seed-i-06","passage":"The draft protocol requires two reviewers to approve a release.","claim":"The protocol was written by the security department.","label":"insufficient"}
+{"id":"seed-i-07","passage":"The greenhouse recorded its highest temperature, 31 degrees Celsius, in July.","claim":"The greenhouse grows 14 varieties of tomato.","label":"insufficient"}
+{"id":"seed-i-08","passage":"Applicants may submit the form online or by post; email submissions are not accepted.","claim":"The application fee is 25 dollars.","label":"insufficient"}
+{"id":"seed-i-09","passage":"The library added 120 new titles during the spring quarter.","claim":"The library is open until 8 p.m. on Fridays.","label":"insufficient"}
+{"id":"seed-i-10","passage":"The sensor sends a status packet every thirty seconds.","claim":"The sensor measures humidity to within one percent.","label":"insufficient"}
+{"id":"seed-i-11","passage":"The final report will be published after the advisory board meeting.","claim":"The advisory board has nine members.","label":"insufficient"}
+{"id":"seed-i-12","passage":"For the trial, all samples were stored below minus ten degrees Celsius.","claim":"The trial was funded by a public university.","label":"insufficient"}
